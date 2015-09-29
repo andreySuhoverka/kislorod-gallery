@@ -1,0 +1,17 @@
+/* -------------------------------------------
+		MAIN STYLES
+----------------------------------------------  */
+
+#kislorod-wrapper {
+    width: 833px;
+    margin: 20px auto;
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #222;
+}
+
+#gallery {
+    height: 670px;
+    width:833px;
+}
+
